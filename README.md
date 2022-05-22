@@ -1,5 +1,8 @@
-- Hi there, I'm Khawla Jayousi 👋
-- About Me 📌
+# Hi there, I'm Khawla Jayousi 👋 
+
+
+## About Me 📌
+
 - 🔭 I'm currently training as a frontend developer at Kiitos Technologies company.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
