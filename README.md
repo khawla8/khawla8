@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @khawla8
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-khawla8/khawla8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there, I'm Khawla Jayousi 👋
+About Me 📌
+🔭 I'm currently training as a frontend developer at Kiitos Technologies company.
+🌱 I’m currently learning everything 🤣
+👯 I’m looking to collaborate with other content creators
+🥅 2022 Goals: Learn more about NextJS
+⚡ Fun fact: I love to draw and cooking
+💞️ I’m looking for a job in web development.
+😈 Challenges are my game.
